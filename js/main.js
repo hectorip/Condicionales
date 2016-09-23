@@ -1,4 +1,4 @@
-console.log("Funciona!!!!");
+// console.log("Funciona!!!!");
 var numero = 0;
 
 function saludar(nombre){
@@ -6,6 +6,8 @@ function saludar(nombre){
     alert(saludo);
     return saludo;
 }
+
+
 // Encontrar números pares,
 // si es par escribe Fizz, en otro caso Buzz
 function FizzBuzzSimple(num){
@@ -71,17 +73,3 @@ function imprimirFibonacci(campo_texto) {
     var n = campo_texto.value;
     console.log(fibonacci(n));
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
